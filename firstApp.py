@@ -12,7 +12,7 @@ def readme():
     return "This is ream me page. Please read me first!!"    
 
 @app.route("/newPage")
-def readme():
+def newPage():
     return "This is new page!" 
 
 if __name__ == '__main__':
